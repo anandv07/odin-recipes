@@ -1,0 +1,16 @@
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 34px;
+    background-color: aquamarine;
+}
+
+ul {
+    list-style-type:none;
+}
+
+a {
+    text-decoration: none;
+    color: #78097c;
+
+}
