@@ -1,8 +1,18 @@
+body {
+    width: 1000px;
+}
+
+
+
 h1 {
     color: brown;
     text-align: center;
     font-size: 34px;
     background-color: aquamarine;
+    margin-left: auto;
+    margin-right: 100px;
+    width: 50%;
+    
 }
 
 ul {
@@ -11,6 +21,29 @@ ul {
 
 a {
     text-decoration: none;
-    color: #78097c;
+    color: #7c3709;
+    display: block;
 
+}
+
+span {
+    color: #0f4e03;
+}
+
+.single-recipe {
+    box-sizing: border-box;
+    height: auto;
+    width: 350px;
+    padding: 20px;
+    background-color: yellow;
+    text-align: center;
+    margin-right: 200px;
+}
+
+.recipe-container {
+    background-color: #c88eca;
+    padding: 30px;
+    margin-right: 300px;
+    
+    
 }
